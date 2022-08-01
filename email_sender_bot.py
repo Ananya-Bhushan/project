@@ -48,9 +48,9 @@ def listen():
 def send_email(receiver, subject, message):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
-    server.login('bhushanananya2001@gmail.com', 'dfzdcgcfasmscztt')
+    server.login('youremailid', 'password')
     email = EmailMessage()
-    email['From'] = 'bhushanananya2001@gmail.com'
+    email['From'] = 'youremailid'
     email['To'] = receiver
     email['Subject'] = subject
     email.set_content(message)
