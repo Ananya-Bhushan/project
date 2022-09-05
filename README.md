@@ -1,5 +1,6 @@
-# 1. MY OWN BROWSER
+# DESCRIPTION OF PROJECTS WITH OVERVIEW
 
+#1.MY OWN BROWSER
 I have created my own web browser with python.
 Technologies/Modules-Python,PyQt
 
