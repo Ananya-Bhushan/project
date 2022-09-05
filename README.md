@@ -16,7 +16,7 @@ BROWSER REPRESENTATION
 
 
 It helps control the mouse with fingers.
-Technologies/Modules-Python,cv2,mediapipe,pyautogui
+Technologies/Modules-Python,cv2,mediapipe,pyautogui.
 
 HAND REPRESENTATION 
 
