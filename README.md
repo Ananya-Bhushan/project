@@ -1,6 +1,8 @@
 # DESCRIPTION OF PROJECTS WITH OVERVIEW
 
 #1.MY OWN BROWSER
+
+
 I have created my own web browser with python.
 Technologies/Modules-Python,PyQt
 
@@ -11,6 +13,7 @@ BROWSER REPRESENTATION
 
 
 #2.VIRTUAL MOUSE
+
 
 It helps control the mouse with fingers.
 Technologies/Modules-Python,cv2,mediapipe,pyautogui
@@ -26,6 +29,7 @@ OUTPUT WINDOW
 
 #3.EMAIL BOT
 
+
 It sends email to user by recognising speech.
 Technologies/Modules-Python,SpeechRecognition.
 
@@ -39,6 +43,7 @@ EMAIL WINDOW
 
 
 #4.QUIZ GAME
+
 
 It is an interactive quiz game based on the famous sitcom THE BIG BANG THEORY which tells you, that you are actually a fan of big bang theory or not.
 Technologies/Modules-Python,tkinter,jason file.
@@ -54,6 +59,8 @@ OUTPUT WINDOW
   
   
 #5. TEXT-TO-SPEECH
+
+
 It converts text to speech.
 Technologies/Modules-Python,ggTS,playsound
 
